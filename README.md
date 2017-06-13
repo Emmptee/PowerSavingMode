@@ -1,0 +1,2 @@
+# PowerSavingMode
+DEMO
